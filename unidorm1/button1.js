@@ -1,0 +1,1 @@
+button.addEventListener("click",function(){paragrahp.textContent="someone clicked the button";});
